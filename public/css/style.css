@@ -1,0 +1,34 @@
+.logo {
+    background-image: url('../images/logo.png');
+    width: 100%;
+    background-size: cover;
+    height: 150px;
+    background-repeat: no-repeat;
+    color: aqua;
+}
+
+.logopad {
+    padding: 10px 5px 20px 0px;
+}
+
+.item {
+    height: 350px;
+}
+
+.image {
+    align-content: center;
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+}
+
+.img {
+    height: 180px;
+    width: 180px;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
